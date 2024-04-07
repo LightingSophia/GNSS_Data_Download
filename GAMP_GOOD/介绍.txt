@@ -1,0 +1,10 @@
+download_DCB_BSX   （下载CAS....._.BSX文件（速度快））
+GAMPII-GOOD_productssaveonefile   （依据下载的观测文件将下载的产品放在一个文件夹下）
+whu_ambiguty_products  （下载whu_phasebiase文件下的wum模糊度产品，方便PRIDE PPPAR软件使用）
+wum_final_products   （下载whu_gps文件下的wum final精密产品）
+Win_2.0   （官方的2.0版本）
+Win_2.1   （官方的2.1版本）
+Win_3.0   （官方的3.0版本）
+Win_3.1   （官方的3.1版本----最新版）（推荐使用）
+GAMPII-GOOD-master_3.1.zip   （官方源码）
+官网下载地址：https://github.com/zhouforme0318/GAMPII-GOOD

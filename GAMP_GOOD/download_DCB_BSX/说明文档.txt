@@ -1,0 +1,5 @@
+这个文件只用来下载CODE(dcb)以及CAS（BSX文件）
+run_2.0 - download DCB_BSX.bat     运行主程序
+gamp_GOOD_DCB_BSX.cfg  配置文件
+     只能选whu,仅需要配置好第三方库的路径即可（配置好一次即可，一劳永逸）
+     下载时，修改时间即可

@@ -1,0 +1,10 @@
+* WARNING(GetOsb): ftp://ftp.gipp.org.cn/product/dcb/mgex/2283/.*  ->  F:\GAMPII_GOOD_v2.0\wum_final_products\data\bia\  failed
+* WARNING(GetOsb): ftp://ftp.gipp.org.cn/product/dcb/mgex/2283/.*  ->  F:\GAMPII_GOOD_v2.0\wum_final_products\data\bia\  failed
+* WARNING(GetOsb): ftp://ftp.gipp.org.cn/product/dcb/mgex/2283/.*  ->  F:\GAMPII_GOOD_v2.0\wum_final_products\data\bia\  failed
+* WARNING(GetOsb): ftp://ftp.gipp.org.cn/product/dcb/mgex/2283/.*  ->  F:\GAMPII_GOOD_v2.0\wum_final_products\data\bia\  failed
+* WARNING(GetOsb): ftp://ftp.gipp.org.cn/product/dcb/mgex/2283/WUM0MGXFIN_20232820000_01D_*_ORB.SP3.*  ->  F:\GAMPII_GOOD_v2.0\wum_final_products\data\bia\WUM0MGXRAP_20230350000_01D_01D_ABS.BIA  failed
+* WARNING(GetOsb): ftp://ftp.gipp.org.cn/product/dcb/mgex/2283/.*  ->  F:\GAMPII_GOOD_v2.0\wum_final_products\data\bia\  failed
+* WARNING(GetOsb): ftp://ftp.gipp.org.cn/product/dcb/mgex/2283/.*  ->  F:\GAMPII_GOOD_v2.0\wum_final_products\data\bia\  failed
+* WARNING(GetOsb): ftp://ftp.gipp.org.cn/product/dcb/mgex/2283/.*  ->  F:\GAMPII_GOOD_v2.0\wum_final_products\data\bia\  failed
+* WARNING(GetOsb): ftp://ftp.gipp.org.cn/product/dcb/mgex/2283/.*  ->  F:\GAMPII_GOOD_v2.0\wum_final_products\data\bia\  failed
+* WARNING(GetOsb): ftp://ftp.gipp.org.cn/product/dcb/mgex/2283/WUM0MGXFIN_20232830000_01D_*_ORB.SP3.*  ->  F:\GAMPII_GOOD_v2.0\wum_final_products\data\bia\WUM0MGXRAP_20230350000_01D_01D_ABS.BIA  failed

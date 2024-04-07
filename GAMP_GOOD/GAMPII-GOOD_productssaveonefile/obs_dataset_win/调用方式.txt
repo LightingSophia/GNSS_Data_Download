@@ -1,0 +1,3 @@
+run_GOOD.exe F:\GAMPII_GOOD_v2.0\GAMPII-GOOD_productssaveonefile\obs_dataset_win\CUT000AUS_R_20230680000_01D_30S_MO.23o
+
+原作者：https://blog.csdn.net/cxy0711/article/details/137047132?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171249038716800182194137%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=171249038716800182194137&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~times_rank-2-137047132-null-null.142^v100^control&utm_term=gamp%20good&spm=1018.2226.3001.4187
